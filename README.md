@@ -1,3 +1,9 @@
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
 <div data-importer="socials" align="center">
   <a href="www.linkedin.com/in/leacotar" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -26,12 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
